@@ -50,6 +50,16 @@ The analysis highlights:
 - Strategies for handling missing data.
 - Relationships between various features in the dataset.
 
+## 📊 Datasets
+
+This project uses the following datasets, which were sourced from Kaggle:
+
+- **Loan Application Dataset**: This dataset contains loan application details, including information about the applicants and their loan statuses. You can download it [here](https://www.kaggle.com/datasets/ramakrushnamohapatra/loan-application-dataset).
+  
+- **Previous Application Dataset**: This dataset contains information about previous loan applications and their corresponding details. You can download it [here](https://www.kaggle.com/datasets/ramakrushnamohapatra/previous-and-columns-data).
+
+Make sure to download these datasets and place them in the appropriate directory for data analysis.
+
 ## 🛠️ Contribution
 Contributions are welcome! Feel free to fork the repository, submit pull requests, or report issues.
 
@@ -58,6 +68,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 For questions or feedback, reach out to [Me](https://mail.google.com/mail/?view=cm&fs=1&to=sohailshaikharifshaikh07@gmail.com)
+
+
+
 
 
 
