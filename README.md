@@ -57,7 +57,8 @@ Contributions are welcome! Feel free to fork the repository, submit pull request
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-For questions or feedback, reach out to [Me](mailto:sohailshaikharifshaikh07@gmail.com)
+For questions or feedback, reach out to [Me](https://mail.google.com/mail/?view=cm&fs=1&to=sohailshaikharifshaikh07@gmail.com)
+
 
 
 
